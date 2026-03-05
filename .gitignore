@@ -1,0 +1,32 @@
+# ENTORNOS Y CONFIGURACIÓN
+
+.venv/
+venv/
+.idea/
+.vscode/
+.env
+
+# DATOS (NO subir letras)
+
+data/raw/
+data/processed/albums_clean/
+data/processed/songs_clean/
+data/processed/results/songs_clean
+
+# PYTHON
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# R
+
+.Rhistory
+.RData
+.Rproj.user/
+
+# SISTEMA
+
+.DS_Store
+Thumbs.db
